@@ -37,14 +37,15 @@
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="./assets/github-snake-dark.svg"
+        srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/github-snake-dark.svg"
     />
     <source
         media="(prefers-color-scheme: light)"
-        srcset="./assets/github-snake.svg"
+        srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/github-snake.svg"
     />
     <img
+        width="100%" 
         alt="github-snake"
-        src="./assets/ocean.gif"
+        src="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/ocean.gif"
     />
 </picture>
