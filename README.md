@@ -16,26 +16,26 @@
 
 <!-- skill badge 技能徽章 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff">
-  <img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Less-1d365d?style=flat&logo=less&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-fdd401?style=flat&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff">
+    <img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white">
+    <img src="https://img.shields.io/badge/Less-1d365d?style=flat&logo=less&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-fdd401?style=flat&logo=javascript&logoColor=white">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=fff">
-  <img src="https://img.shields.io/badge/React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=fff">
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff">
+    <img src="https://img.shields.io/badge/TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=fff">
+    <img src="https://img.shields.io/badge/React-00b4ce?style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=fff">
+    <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/ESLint-%234B32C3?style=flat&logo=eslint">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff">
-  <img src="https://img.shields.io/badge/Webpack-%232C3A42?style=flat&logo=webpack">
-  <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github">
+    <img src="https://img.shields.io/badge/Git-ee462c?style=flat&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/ESLint-%234B32C3?style=flat&logo=eslint">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff">
+    <img src="https://img.shields.io/badge/Webpack-%232C3A42?style=flat&logo=webpack">
+    <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github">
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -49,7 +49,7 @@
         srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/github-snake/github-snake.svg"
     />
     <img
-        width="100%" 
+        width="100%"
         alt="github-snake"
         src="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/github-snake/ocean.gif"
     />
@@ -57,7 +57,10 @@
 
 <!-- contribution-plot-3d 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/contribution-plot-3d/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/contribution-plot-3d/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/assets/contribution-plot-3d/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/profile-3d-contrib/profile-gitblock.svg"/>
+    <img
+        src="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/profile-3d-contrib/profile-night-rainbow.svg"/>
 </picture>
