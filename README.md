@@ -64,3 +64,13 @@
     <img
         src="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/profile-3d-contrib/profile-night-rainbow.svg"/>
 </picture>
+
+<!-- line-graph 折现统计图-->
+<picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=ShuaiNingZ&theme=react-dark"/>
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=ShuaiNingZ&theme=react-dark&bg_color=fff&point=2FCCED"/>
+    <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=ShuaiNingZ&theme=react-dark"/>
+</picture>
