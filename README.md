@@ -21,14 +21,15 @@
     <img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/Less-1d365d?style=flat&logo=less&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-fdd401?style=flat&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=fff">
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=fff">
     <img src="https://img.shields.io/badge/React-00b4ce?style=flat&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=fff">
     <img src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff">
+    <img src="https://img.shields.io/badge/Express-eceeef?style=flat&logo=express&logoColor=black">
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Git-ee462c?style=flat&logo=git&logoColor=white">
@@ -36,6 +37,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff">
     <img src="https://img.shields.io/badge/Webpack-%232C3A42?style=flat&logo=webpack">
     <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github">
+<img src="https://img.shields.io/badge/-Chrome%20Extension-4285f4?style=flat&logo=google-chrome&logoColor=white">
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
