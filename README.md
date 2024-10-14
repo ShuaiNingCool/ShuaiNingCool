@@ -37,35 +37,36 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff">
     <img src="https://img.shields.io/badge/Webpack-%232C3A42?style=flat&logo=webpack">
     <img src="https://img.shields.io/badge/Github-black?style=flat&logo=github">
-<img src="https://img.shields.io/badge/-Chrome%20Extension-4285f4?style=flat&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/-Chrome%20Extension-4285f4?style=flat&logo=google-chrome&logoColor=white">
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<!-- https://raw.githubusercontent.com/{用户名}/{仓库名}/{分支名}/{文件路径} -->
+<!-- 直接访问 GitHub 仓库文件内容 https://raw.githubusercontent.com/{用户名}/{仓库名}/{分支名}/{文件路径} -->
+<!-- jsDelivr CDN 连接访问仓库 https://cdn.jsdelivr.net/gh/{用户名}/{仓库名}@{标签/分支/提交ID}/{路径} -->
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/ShuaiNingZ/ShuaiNingZ/main/assets/github-snake/github-snake-dark.svg"
+        srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/main/assets/github-snake/github-snake-dark.svg"
     />
     <source
         media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/ShuaiNingZ/ShuaiNingZ/main/assets/github-snake/github-snake.svg"
+        srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/main/assets/github-snake/github-snake.svg"
     />
     <img
         width="100%"
         alt="github-snake"
-        src="https://raw.githubusercontent.com/ShuaiNingZ/ShuaiNingZ/main/assets/github-snake/ocean.gif"
+        src="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/main/assets/github-snake/ocean.gif"
     />
 </picture>
 
 <!-- contribution-plot-3d 3D 贡献图-->
 <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/ShuaiNingZ/ShuaiNingZ/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+            srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/main/profile-3d-contrib/profile-night-rainbow.svg"/>
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/ShuaiNingZ/ShuaiNingZ/main/profile-3d-contrib/profile-gitblock.svg"/>
+            srcset="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/main/profile-3d-contrib/profile-gitblock.svg"/>
     <img
-        src="https://raw.githubusercontent.com/ShuaiNingZ/ShuaiNingZ/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+        src="https://cdn.jsdelivr.net/gh/ShuaiNingZ/ShuaiNingZ/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 </picture>
 
 <!-- line-graph 折现统计图-->
